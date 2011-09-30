@@ -1,0 +1,4 @@
+A library of utility macros (and perhaps functions) to ease development NSIS scripts. 
+
+Future Goals: An NSIS guide for newbies to help level the *VERY* step learning curve. Making NSIS do what you want is easy. Writing it in a maintanable and extendable way is hard!
+
